@@ -1,5 +1,4 @@
 //Brendan Dunne
-//CS3800: Fabricated Files 'n' Folders
 //8 September 2019
 
 #include <iostream>
